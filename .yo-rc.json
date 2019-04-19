@@ -33,6 +33,8 @@
         "otherModules": [],
         "enableTranslation": true,
         "nativeLanguage": "es",
-        "languages": ["es"]
+        "languages": ["es"],
+        "herokuAppName": "shop-spain",
+        "herokuDeployType": "jar"
     }
 }
