@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "es.lab.shop",
+            "nativeLanguage": "es"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "shop",
+        "packageName": "es.lab.shop",
+        "packageFolder": "es/lab/shop",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YmRhYzZiOWU3NTYyMWM1ZGE1MDc4MmU5MDdlZmZhNzA3ZDViOGJiYjAzOGE2ZWVmN2RhZDE0M2MzZDQ4MWUyZDlhOTgxNWY4OTdhNzg5OTdjZTA1ZjRmYjM5MDg2MjA2ZDgxZGZlNWI5MWExNDA2ZTA5M2Y5ZWMwMzlhZjE2Yzc=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "es",
+        "languages": ["es"]
+    }
+}
